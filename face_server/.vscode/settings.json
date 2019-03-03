@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "F:\\programming language\\python372\\virtualenvwrapper\\Flask\\Scripts\\python.exe",
+    "python.venvPath": "F:\\programming language\\python372\\virtualenvwrapper",
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
